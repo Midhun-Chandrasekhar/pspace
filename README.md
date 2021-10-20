@@ -25,12 +25,12 @@ Architecture: MVT
 
 - Django: Full Stack Web Framework
 - SQLITE: DataBase (Use PSQL in ALL env)
-- BOOTSTRAP 5: UI boilerplate for modern web apps
+- Bootstrap 5: UI boilerplate for modern web apps
 - Django-REST: REST Framework
 
 ## Installation
 
-PSPACE requires python>3.8 to run.
+PSPACE requires python >= 3.8 to run.
 
 Install the dependencies and devDependencies and start the server.
 
