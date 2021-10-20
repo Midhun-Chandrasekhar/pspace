@@ -1,7 +1,7 @@
 # P SPACE
 Auther: Midhun Chandrasekhar
 <br>
-Software Architect/Engineer
+Software Architect / Engineer
 
 Date: Oct 20, 2021
 <br>
@@ -22,8 +22,6 @@ Architecture: MVT
 - Retrieve Partner information
 
 ## Tech Stacks
-
-Dillinger uses a number of open source projects to work properly:
 
 - Django: Full Stack Web Framework
 - SQLITE: DataBase (Use PSQL in ALL env)
