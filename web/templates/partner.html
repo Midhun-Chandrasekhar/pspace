@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<br>
+<br>
+<div class="card" style="min-width:300">
+    <div class="card-body d-flex justify-content-center">
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <table>
+            {{ form }}
+        </table>
+
+    <br>
+    <div class="d-flex justify-content-center">
+            <input class="btn btn-primary" type="submit" value="Add New Partner">
+    </div>
+    </div>
+</form>
+</div>
+
+{% endblock %}
